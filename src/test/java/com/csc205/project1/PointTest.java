@@ -11,8 +11,8 @@ class PointTest {
     void setPoint() {
 
         // Setup
-        double expectedX = 5;
-        double expectedY = 5;
+        double expectedX = 5.0;
+        double expectedY = 5.0;
         Point point = new Point(expectedX, expectedY);
 
         // Exercise
